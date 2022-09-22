@@ -1,0 +1,11 @@
+imagecodecs
+matplotlib
+numpy
+opencv-python-headless
+pandas
+Pillow
+scikit-learn
+scipy
+seaborn
+tifffile
+tqdm
